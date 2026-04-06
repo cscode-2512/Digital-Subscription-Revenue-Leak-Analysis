@@ -140,8 +140,8 @@ pip install -r requirements.txt
 
 3. Open:
 
-* Jupyter Notebook → `notebooks/analysis.ipynb`
-* Power BI → `powerbi/dashboard.pbix`
+* Jupyter Notebook → `Notebook/subscription_revenue_leak_analysis.ipynb`
+* Power BI → `Dashboard/Subscription Revenue Leak Analysis Dashbroad.pbix`
 
 ---
 
